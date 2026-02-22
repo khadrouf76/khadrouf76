@@ -3,7 +3,6 @@
 
 ---
 
-## 📖 About Me
 I am a **Practical Programmer** dedicated to building functional, real-world solutions using **Python**. I believe in writing clean code that solves actual problems.
 
 * 🔭 **Current Focus:** Developing automation scripts and backend systems.
@@ -30,14 +29,12 @@ I am a **Practical Programmer** dedicated to building functional, real-world sol
 ---
 
 ## 📊 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vibrant&hide_border=true" alt="Mustafa's Stats" />
-</p>
+![Mustafa's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=flat&hide_border=true)
 
 ---
 
 ## 📫 Contact Me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_URL) 
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
