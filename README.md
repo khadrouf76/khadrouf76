@@ -1,40 +1,43 @@
-## Hey, I'm Mustafa Hawi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+# 👋 Hello, I'm Mustafa Hawi
+### 🐍 Python Developer | Practical Programming Specialist
 
-<h1>Welcome to my Practical Programming World..</h1> 
+---
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+## 📖 About Me
+I am a **Practical Programmer** dedicated to building functional, real-world solutions using **Python**. I believe in writing clean code that solves actual problems.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mustafa%20Hawi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL) [![Gmail Badge](https://img.shields.io/badge/-Email%20Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YOUR_EMAIL)](mailto:YOUR_EMAIL) 
+* 🔭 **Current Focus:** Developing automation scripts and backend systems.
+* 🌱 **Learning:** Deepening my knowledge in Advanced Python & Cloud Architecture.
+* ⚡ **Philosophy:** "Code is only as good as the problem it solves."
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME" alt="MustafaHawi" /> </p>
+---
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+## 🛠️ Tech Stack & Skills
 
-## :computer: Technologies I Love
-* Python Practical Programming
-* Automation Scripts
-* Backend Development
-* Data Processing
+### 💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical">
+### ⚙️ Frameworks & Tools
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🐍 Programming Languages & Skills
-<img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='35'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='35'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' width='35'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' width='35'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg' width='35'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' width='40'/>
+---
 
-## 🛠️ Tools I Use
-<img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg' width='35'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg' width='35'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg' width='35'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='35'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' width='35'/>
+## 📊 GitHub Statistics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vibrant&hide_border=true" alt="Mustafa's Stats" />
+</p>
 
-## Who am I?
-```python
-class WhoAmI:
-    user = 'Mustafa khadrouf'
-    specialty = 'Practical Programming'
-    main_language = 'Python'
-    hobbies = [
-        'Coding useful tools',
-        'Solving Logic Puzzles',
-        'Exploring new Tech'
-    ]
+---
 
-    def current_focus():
-        return "Building real-world Python applications"
+## 📫 Contact Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_URL) 
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
